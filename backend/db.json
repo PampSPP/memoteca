@@ -4,43 +4,50 @@
       "id": 1,
       "conteudo": "Que bom que você veio",
       "autoria": "PampSPP",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     },
     {
       "id": 2,
       "conteudo": "É muito bom aprender",
       "autoria": "PampSPP",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     },
     {
       "id": 3,
       "conteudo": "Que bom que você veio",
       "autoria": "PampSPP",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "Testando função de editar",
       "autoria": "PampSPP2",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Que a força esteja com você",
       "autoria": "Mestre Yoda",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Na minha máquina funciona!",
       "autoria": "dev",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 6
     },
     {
       "id": 7,
       "conteudo": "Fusce dui tortor, bibendum egestas purus id, consequat pharetra massa. Praesent sit amet fringilla odio. Aenean posuere finibus malesuada. Quisque eget erat eu risus ultricies elementum. Fusce aliquet nulla a elit pharetra, id ultrices risus consectetur. Etiam id justo vitae velit porta dignissim vitae vitae urna. Mauris luctus orci sit amet turpis semper, a cursus neque facilisis. Sed nec ex auctor, consequat elit eu, vestibulum elit. Fusce eu tristique arcu. Donec libero metus, posuere ac tempor eget, rhoncus nec leo.",
       "autoria": "lorem ipsum",
-      "modelo": "modelo1"
+      "modelo": "modelo1",
+      "favorito": false
     }
   ]
 }
